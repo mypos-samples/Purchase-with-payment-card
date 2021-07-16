@@ -1,0 +1,5 @@
+{
+    "require": {
+        "developermypos/mypos-checkout-sdk": "^1.1"
+    }
+}
